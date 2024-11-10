@@ -1,0 +1,11 @@
+﻿@* @namespace MorgenthalerDesign.Components; *@
+
+@code {
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+}
+
+<button type="button" class="btn">
+    @ChildContent
+</button>
+

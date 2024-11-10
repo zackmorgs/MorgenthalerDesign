@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorgenthalerDesign", "MorgenthalerDesign\MorgenthalerDesign.csproj", "{8E2518CE-D05A-45C4-A64D-5D88B5660FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorgenthalerDesign.Server", "MorgenthalerDesign.Server\MorgenthalerDesign.Server.csproj", "{33218921-61AB-40AA-9C29-6DE5256AD05D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2518CE-D05A-45C4-A64D-5D88B5660FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2518CE-D05A-45C4-A64D-5D88B5660FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2518CE-D05A-45C4-A64D-5D88B5660FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2518CE-D05A-45C4-A64D-5D88B5660FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33218921-61AB-40AA-9C29-6DE5256AD05D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33218921-61AB-40AA-9C29-6DE5256AD05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33218921-61AB-40AA-9C29-6DE5256AD05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33218921-61AB-40AA-9C29-6DE5256AD05D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
